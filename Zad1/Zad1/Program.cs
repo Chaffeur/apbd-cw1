@@ -2,3 +2,6 @@
 Console.WriteLine("Hello, World!");
 
 // pierwsza zmiana
+
+
+Console.WriteLine("Druga zmiana");
