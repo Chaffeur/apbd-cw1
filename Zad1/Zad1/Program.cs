@@ -5,3 +5,7 @@ Console.WriteLine("Hello, World!");
 
 
 Console.WriteLine("Druga zmiana");
+
+String a = "Trzecia zmiana";
+
+Console.WriteLine(a);
